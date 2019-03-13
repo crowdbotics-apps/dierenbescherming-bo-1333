@@ -1,0 +1,3 @@
+rootProject.name = 'dierenbescherming_bo_1333'
+
+include ':app'
